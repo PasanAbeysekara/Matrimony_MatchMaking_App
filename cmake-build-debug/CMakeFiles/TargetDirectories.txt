@@ -1,0 +1,3 @@
+C:/Users/ASUS/Desktop/Matrimony-MatchMaking-App/cmake-build-debug/CMakeFiles/Matrimony_MatchMaking_App.dir
+C:/Users/ASUS/Desktop/Matrimony-MatchMaking-App/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ASUS/Desktop/Matrimony-MatchMaking-App/cmake-build-debug/CMakeFiles/rebuild_cache.dir
